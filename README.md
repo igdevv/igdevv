@@ -8,6 +8,6 @@ Soy estudiante de Desarrollo de Software apasionado por la programación, la int
 - Git y GitHub (próximamente)
 
 ## 📫 Conectemos
-- Instagram: [@igsuero__](https://instagram.com/igsuero__)
+- Instagram: [@igsuero___](https://instagram.com/igsuero___)
 
 
