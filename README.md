@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;API+Engineer;Database+Explorer;Learning+every+day&center=true&width=500&height=30&color=00ffcc&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Learning+every+day&center=true&width=500&height=30&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
