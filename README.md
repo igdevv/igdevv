@@ -29,7 +29,9 @@
 ### 🛠️ Stack y Herramientas
 
 💻 **Lenguajes:**     C# • Javascript 
-🧰 **Frameworks:**    .NET • Angular   
+
+🧰 **Frameworks:**    .NET • Angular
+
 🛢️ **Bases de datos:** SQL Server • PostgreSQL • MySQL 
 
 ---
