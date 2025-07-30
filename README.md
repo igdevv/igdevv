@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Stom</h1>
-<h3 align="center">🚀 Future Software Developer | Passionate about C#, JavaScript, and Web Tech</h3>
+<h1 align="center">🧑🏾‍💻 Man Technologist Medium-Dark Skin Tone</h1>
+<h3 align="center">Backend Developer | API Engineer | Databases Curious</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+in+training;Learning+every+day;Building+cool+projects&center=true&width=500&height=30&color=00ffcc&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;API+Engineer;Database+Explorer;Learning+every+day&center=true&width=500&height=30&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
