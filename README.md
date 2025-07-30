@@ -19,15 +19,18 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 🧠 Sobre mí  
+🎯 Soy un desarrollador backend con pasión por crear soluciones escalables y bien documentadas.  
+🎧 Me gusta trabajar con APIs, microservicios, bases de datos.  
+🛠️ Siempre estoy buscando nuevos retos y tecnologías que me ayuden a crear soluciones mientras aprendo.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StomFF&show_icons=true&theme=tokyonight" alt="Stom's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StomFF&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StomFF&layout=compact&theme=tokyonight" />
-</p>
+---
+
+### 🛠️ Stack y Herramientas
+
+💻 **Lenguajes:**     C# • Javascript 
+🧰 **Frameworks:**    .NET • Angular   
+🛢️ **Bases de datos:** SQL Server • PostgreSQL • MySQL 
 
 ---
 
