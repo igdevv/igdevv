@@ -1,5 +1,5 @@
 <h1 align="center">🧑🏾‍💻 Backend Developer | C# | .Net | SQL Server | Angular</h1>
-<h3 align="center">Backend Developer | API Engineer | Databases Curious</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;API+Engineer;Database+Explorer;Learning+every+day&center=true&width=500&height=30&color=00ffcc&vCenter=true&pause=1000&size=22" />
