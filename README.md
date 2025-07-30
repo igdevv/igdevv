@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏾‍💻 Man Technologist Medium-Dark Skin Tone</h1>
+<h1 align="center">🧑🏾‍💻 Backend Developer | C# | .Net | SQL Server | Angular</h1>
 <h3 align="center">Backend Developer | API Engineer | Databases Curious</h3>
 
 <p align="center">
