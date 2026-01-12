@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏾‍💻 Backend Developer | C# | .Net | SQL Server | Angular</h1>
+<h1 align="center">🧑🏾‍💻 Full Stack Developer | C# | .NET | React | TypeScript | Nodejs | Express | MongoDB</h1>
 
 
 <p align="center">
