@@ -1,161 +1,55 @@
-<div align="center">
-
-# 👋 Hi, I'm José Ignacio Suero Angustia
-
-### Backend Software Developer
-
-**ASP.NET Core • C# • REST APIs • SQL Server • React**
-
-Building software that solves real-world business problems.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+ASP.NET+Core;Building+REST+APIs;Clean+Architecture;Always+Learning+Something+New" />
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm a Software Developer from the **Dominican Republic** focused on building modern backend applications with **ASP.NET Core**.
-
-I have professional experience maintaining and improving production systems used by clinical laboratories and administrative organizations.
-
-I enjoy designing REST APIs, writing clean and maintainable code, solving real business problems and continuously improving my software engineering skills.
-
----
-
-# 💼 Professional Experience
-
-### Software Developer
-
-**ILUTEC S.R.L. — Sinergia Software**
-
-- Maintained and optimized production legacy web systems.
-- Developed new business features using PHP and MySQL.
-- Built REST API integrations between laboratory systems.
-- Participated in migrating desktop processes to web applications.
-- Optimized SQL queries and database performance.
-- Fixed production issues and implemented client requirements.
-- Worked with Git in collaborative development environments.
-
----
-
-# 🛠 Tech Stack
-
-### Backend
-
-- ASP.NET Core
-- C#
-- Entity Framework Core
-- REST APIs
-- PHP
-- Node.js
-- Express
-
-### Frontend
-
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-
-### Databases
-
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Postman
-- Docker (Learning)
-- Azure (Learning)
-
----
-
-# 🚀 Featured Projects
-
-### 🎬 MovieHub API
-
-REST API built with ASP.NET Core using Entity Framework Core, SQL Server, JWT Authentication and Swagger.
-
----
-
-### 🏢 Coworking Management System *(In Progress)*
-
-Enterprise backend focused on reservations, organizations, billing and multi-tenant architecture.
-
----
-
-### 💰 PrecioRD
-
-Price comparison platform for Dominican Republic supermarkets.
-
----
-
-### 🎮 DevQuest
-
-Gamified learning platform for software developers.
-
----
-
-# 📚 Currently Learning
-
-- Clean Architecture
-- Advanced Entity Framework Core
-- Docker
-- Azure
-- Design Patterns
-- Software Architecture
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=igdevv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdevv&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+  <img src="./assets/profile-header.svg" width="1200" alt="José Ignacio Suero — Backend Software Developer. APIs built around business rules. Based in the Dominican Republic." />
 </p>
 
-<p align="center">
+I develop, maintain, and improve software used in **clinical laboratory operations and administrative workflows**. Working with these systems has taught me to understand the process behind a requirement and consider how a change affects the people using it.
 
-<img src="https://streak-stats.demolab.com?user=igdevv&theme=tokyonight&hide_border=true"/>
+My focus is backend development: translating business requirements into explicit rules, clear API contracts, and maintainable code.
 
-</p>
+## Technical stack
 
----
+| Area | Technologies |
+| :--- | :--- |
+| Language & framework | C# · .NET 10 · ASP.NET Core |
+| APIs & persistence | REST APIs · Entity Framework Core · LINQ |
+| Databases | SQL Server · PostgreSQL |
+| Version control | Git |
 
-# 📫 Connect With Me
+**Currently learning:** Microsoft Azure and Docker.
 
-<p align="left">
+## Featured projects
 
-<a href="mailto:joseignaciosuero1230@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Selected personal projects where I put backend concepts into practice.
 
-<a href="https://www.linkedin.com/in/joseignaciosuero">
-<img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Ignacio%20Suero-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### [FacturacionAPI](https://github.com/igdevv/FacturacionAPI)
 
-<a href="https://github.com/igdevv">
-<img src="https://img.shields.io/badge/GitHub-igdevv-181717?style=for-the-badge&logo=github"/>
-</a>
+**Internal invoicing, with business rules in the domain.**
 
-</p>
+A learning project built with ASP.NET Core 10, Clean Architecture, EF Core, and SQL Server. Separate domain, application, infrastructure, and API projects keep business logic apart from HTTP and persistence concerns.
 
----
+- Customer and product management, stock adjustments, and draft-to-issued invoices.
+- Invoice calculations and state transitions enforced by domain entities; invoice lines retain their original unit prices.
+- Optimistic concurrency handling, structured HTTP errors, and xUnit tests for domain rules, application behavior, and SQL Server persistence.
 
-<div align="center">
+[Explore the domain](https://github.com/igdevv/FacturacionAPI/tree/main/FacturacionAPI.Domain) · [Read the tests](https://github.com/igdevv/FacturacionAPI/tree/main/FacturacionAPI.Domain.Tests)
 
-### 💡 *"Turning business requirements into scalable software solutions."*
+### [TaskNotes API](https://github.com/igdevv/tasknotes-api)
 
-</div>
+A notes and categories API with ASP.NET Core Identity and JWT authentication. Queries and updates are scoped to the authenticated user, with text and priority filters, pagination, and DTO projections for read operations.
+
+### [SistemasReservas](https://github.com/igdevv/SistemasReservas)
+
+A reservation API organized into domain, application, infrastructure, and HTTP layers. Includes request validation, a check for overlapping time slots before creation, and domain methods for confirming and cancelling reservations.
+
+## Engineering focus
+
+Areas I work on, practice, and continue to deepen:
+
+- **Domain modeling** — putting validation, calculations, and state transitions close to the data they govern.
+- **Application design** — applying SOLID principles and dependency injection to keep responsibilities clear and dependencies explicit.
+- **API contracts** — designing request and response models, access rules, and consistent error behavior.
+- **Verification** — using automated tests to exercise business rules and persistence behavior, including failure cases.
+
+## Contact
+
+Find me on [GitHub · @igdevv](https://github.com/igdevv).

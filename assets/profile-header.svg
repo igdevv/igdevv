@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">José Ignacio Suero — Backend Software Developer</title>
+  <desc id="description">APIs built around business rules. Based in the Dominican Republic. A blue and cyan diagram connects HTTP, business rules, and data.</desc>
+  <defs>
+    <linearGradient id="accent" x1="52" y1="2" x2="1148" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#388bff" />
+      <stop offset="1" stop-color="#67e8f9" />
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101e33" />
+      <stop offset="1" stop-color="#0b1220" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="#0b1220" stroke="#27374d" stroke-width="2" />
+  <path d="M52 2h1096" stroke="url(#accent)" stroke-width="4" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="56" y="58" fill="#67e8f9" font-family="'Cascadia Code', Consolas, monospace" font-size="14" letter-spacing="3">IGDEVV / BACKEND DEVELOPMENT</text>
+    <text x="52" y="135" fill="#f0f6fc" font-size="55" font-weight="700" letter-spacing="-1.5">José Ignacio Suero</text>
+    <text x="56" y="180" fill="#b7c9e2" font-size="26">Backend Software Developer</text>
+    <text x="56" y="225" fill="#e0eaf7" font-size="20">APIs built around business rules.</text>
+    <path d="M56 265h650" stroke="#27374d" />
+    <circle cx="61" cy="295" r="4" fill="#67e8f9" />
+    <text x="76" y="300" fill="#a4b6cd" font-family="'Cascadia Code', Consolas, monospace" font-size="13" letter-spacing="2">DOMINICAN REPUBLIC</text>
+  </g>
+
+  <g fill="none" stroke="#27374d">
+    <path d="M815 42h332M815 298h332M839 32v276M1123 32v276" />
+    <path d="M815 106h332M815 234h332" stroke-dasharray="3 8" />
+  </g>
+
+  <g font-family="'Cascadia Code', Consolas, monospace" font-size="14" letter-spacing="2">
+    <path d="M980 110v25M980 205v25" fill="none" stroke="#388bff" stroke-width="2" />
+    <rect x="875" y="58" width="210" height="52" rx="8" fill="url(#surface)" stroke="#315071" />
+    <rect x="851" y="135" width="258" height="70" rx="10" fill="#10243b" stroke="#388bff" stroke-width="2" />
+    <rect x="875" y="230" width="210" height="52" rx="8" fill="url(#surface)" stroke="#315071" />
+    <text x="980" y="89" text-anchor="middle" fill="#b7c9e2">HTTP</text>
+    <text x="980" y="175" text-anchor="middle" fill="#67e8f9">BUSINESS RULES</text>
+    <text x="980" y="261" text-anchor="middle" fill="#b7c9e2">DATA</text>
+    <circle cx="980" cy="122" r="3" fill="#67e8f9" />
+    <circle cx="980" cy="218" r="3" fill="#67e8f9" />
+  </g>
+</svg>
