@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-header.svg" width="1200" alt="José Ignacio Suero — Backend Software Developer. APIs built around business rules. Based in the Dominican Republic." />
+  <img src="./assets/profile-header.svg" width="1200" alt="Jose Ignacio Suero — Backend Software Developer. APIs built around business rules. Based in the Dominican Republic." />
 </p>
 
 I develop, maintain, and improve software used in **clinical laboratory operations and administrative workflows**. Working with these systems has taught me to understand the process behind a requirement and consider how a change affects the people using it.
